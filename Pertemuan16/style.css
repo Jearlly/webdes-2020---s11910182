@@ -1,0 +1,19 @@
+
+{
+    font-family : "Helvetica Neue" , Helvetica , Arial , sans-serif;
+    ukuran font : 2 em ; / * 100% = 16px * /
+    text-align : center;
+}
+ 
+h1
+{
+    font-family : 'Give You Glory' , kursif;
+    ukuran font : 5.625 rem ;
+    lebar : 50 % ;
+    margin : 0 otomatis;
+}
+
+p
+{
+    font-family : 'Nunito' , sans-serif;
+}
